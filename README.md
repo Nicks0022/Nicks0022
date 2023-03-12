@@ -1,7 +1,5 @@
-<h1 align="center">  😎Hello, I'm Nicolly Lima </h1>
+<h2 align="center">  😎Hello, I'm Nicolly Lima </h2>
  
-
-
  - 🎈 Pronouns: She/Her
  - 🖥 Studying Systems Development 
  - 📖 High school student 
@@ -35,3 +33,5 @@
   <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nicolly_lsoares/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolly-lima-bb942a263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  
