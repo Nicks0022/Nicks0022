@@ -1,6 +1,6 @@
 <h2 align="center">  😎Hello, I'm Nicolly Lima </h2>
  
- - 🎈 Pronouns: She/Her
+ - :shipit: Pronouns: She/Her
  - 🖥 Studying Systems Development 
  - 📖 High school student 
  - 📬 Contact: nicolly70lima@gmail.com
