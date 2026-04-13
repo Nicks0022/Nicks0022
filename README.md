@@ -35,10 +35,9 @@ Quando não estou estudando banco de dados ou resolvendo bugs:
 ## 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicks0022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Nicolly" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicks0022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicks0022&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="150">
 </p>
-
 ---
 
 ## 📫 Vamos nos conectar?
