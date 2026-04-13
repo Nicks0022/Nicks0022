@@ -1,37 +1,47 @@
-<h2 align="center">  😎Hello, I'm Nicolly Lima </h2>
- 
- - :shipit: Pronouns: She/Her
- - 🖥 Studying Systems Development 
- - 📖 High school student 
- - 📬 Contact: nicolly70lima@gmail.com
- 
- ##
- 
- <div style="display: inline_block" align="center">
-  <a href="https://github.com/Nicks0022">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nicks0022&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicks0022&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<br>
+# Olá, eu sou a Nicolly! 👋
 
-##
-   
- <div  align="center"> 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
-  
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNIP)
+Focada em transição de carreira para a área de Dados e Administração de Bancos de Dados. Atualmente, concilio os estudos acadêmicos com a atuação no setor de negociação e recuperação digital.
 
-    
-</div>
-<br>
-  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nicolly_lsoares/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolly-lima-bb942a263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python, C, SQL
+- **Banco de Dados:** Modelagem SQL, PostgreSQL, MySQL
+- **Frontend:** HTML5, CSS3 (layouts modernos/Bento Grid), JavaScript
+- **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+## 🚀 Projetos em Destaque
+
+### [TechTrust / ConsertaHub](link-do-seu-repo)
+Projeto desenvolvido para o **PIM III**, focado em um marketplace de serviços técnicos. 
+- Implementação de interface responsiva e moderna.
+- Modelagem de banco de dados para gestão de prestadores e clientes.
+
+---
+
+## 🏎️ Além do Código...
+
+Quando não estou estudando banco de dados ou resolvendo bugs:
+- 🏁 Acompanhando cada volta da **Formula 1** (Torcendo pelo Lando Norris e Gabriel Bortoleto!).
+- 🎸 Ouvindo um bom **Sertanejo** (Jorge & Mateus e Henrique & Juliano não faltam na playlist).
+- ✨ Mantendo minha rotina de **Skincare** em dia.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicks0022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Nicolly" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicks0022&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="150">
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link-do-linkedin)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
