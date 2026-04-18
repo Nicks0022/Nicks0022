@@ -14,19 +14,10 @@ Focada em transição de carreira para a área de Dados e Administração de Ban
 
 ## 🚀 Projetos em Destaque
 
-### [TechTrust / ConsertaHub](link-do-seu-repo)
-Projeto desenvolvido para o **PIM III**, focado em um marketplace de serviços técnicos. 
+### [TechTrust](https://github.com/Nicks0022/PIM-2)
+Projeto desenvolvido para o **PIM II**, focado em um marketplace de serviços técnicos. 
 - Implementação de interface responsiva e moderna.
 - Modelagem de banco de dados para gestão de prestadores e clientes.
-
----
-
-## 🏎️ Além do Código...
-
-Quando não estou estudando banco de dados ou resolvendo bugs:
-- 🏁 Acompanhando cada volta da **Formula 1** (Torcendo pelo Lando Norris e Gabriel Bortoleto!).
-- 🎸 Ouvindo um bom **Sertanejo** (Jorge & Mateus e Henrique & Juliano não faltam na playlist).
-- ✨ Mantendo minha rotina de **Skincare** em dia.
 
 ---
 ## 💡 Insight do Dia
