@@ -11,15 +11,6 @@ Focada em transição de carreira para a área de Dados e Administração de Ban
 </p>
 
 ---
-
-## 🚀 Projetos em Destaque
-
-### [TechTrust](https://github.com/Nicks0022/PIM-2)
-Projeto desenvolvido para o **PIM II**, focado em um marketplace de serviços técnicos. 
-- Implementação de interface responsiva e moderna.
-- Modelagem de banco de dados para gestão de prestadores e clientes.
-
----
 ## 💡 Insight do Dia
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="400" />
 
